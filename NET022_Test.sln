@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET022_Test", "NET022_Test\NET022_Test.csproj", "{6EDD625F-E603-47AB-BD38-5B8046321773}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEventArgs", "CustomEventArgs\CustomEventArgs.csproj", "{50446E2E-359B-49C4-A46D-C9AC9AD25DBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6EDD625F-E603-47AB-BD38-5B8046321773}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EDD625F-E603-47AB-BD38-5B8046321773}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EDD625F-E603-47AB-BD38-5B8046321773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50446E2E-359B-49C4-A46D-C9AC9AD25DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50446E2E-359B-49C4-A46D-C9AC9AD25DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50446E2E-359B-49C4-A46D-C9AC9AD25DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50446E2E-359B-49C4-A46D-C9AC9AD25DBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
